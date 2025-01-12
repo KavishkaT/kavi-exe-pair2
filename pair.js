@@ -80,9 +80,9 @@ var randomItem = selectRandomItem(items);
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴠᴀᴊɪʀᴀ-ᴍᴅ",
-thumbnailUrl: "https://telegra.ph/file/e069027c2178e2c7475c9.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24",
+title: "𝙺𝙰𝚅𝙸 𝙴𝚇𝙴 𝚅1",
+thumbnailUrl: "https://files.catbox.moe/88v9xj.jpeg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb22FT9HFxOzBtWOwT0X",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
