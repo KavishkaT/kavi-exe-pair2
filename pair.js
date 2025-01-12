@@ -91,14 +91,14 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e });
-                            let desc = `*𝙳𝚘𝚗𝚝 𝚜𝚑𝚊𝚛𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚠𝚒𝚝𝚑 𝚊𝚗𝚢𝚘𝚗𝚎!! 𝚄𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 𝚅𝙰𝙹𝙸𝚁𝙰-𝙼𝙳 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚄𝚜𝚎𝚛 𝚋𝚘𝚝.*\n\n ◦ *Github:* https://github.com/ayooh-us/Pink-Venom-MD`;
+                            let desc = `*𝙳𝚘𝚗𝚝 𝚜𝚑𝚊𝚛𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚠𝚒𝚝𝚑 𝚊𝚗𝚢𝚘𝚗𝚎!! 𝚄𝚜𝚎 𝚝𝚑𝚒𝚜 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚌𝚛𝚎𝚊𝚝𝚎 𝙺𝙰𝚅𝙸 𝙴𝚇𝙴 𝚅1 𝚆𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚄𝚜𝚎𝚛 𝚋𝚘𝚝.*\n\n ◦ *Github:* https://github.com/Baymaxff/KAVI-EXE`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "ᴠᴀᴊɪʀᴀ-ᴍᴅ",
-thumbnailUrl: "https://telegra.ph/file/e069027c2178e2c7475c9.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VadExMQHwXb9GtsC1A24",
+title: "𝙺𝙰𝚅𝙸 𝙴𝚇𝙴",
+thumbnailUrl: "https://files.catbox.moe/efnqyj.jpeg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb22FT9HFxOzBtWOwT0X",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
